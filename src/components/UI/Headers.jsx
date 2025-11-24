@@ -39,7 +39,7 @@ const Headers = () => {
             {/* RIGHT: Buttons (desktop) */}
             <div className="hidden md:flex flex-1 justify-end space-x-4">
               <NavLink
-                to="/signin"
+                to="/login"
                 className="px-4 py-2 border border-blue-600 text-blue-600 rounded-md hover:bg-blue-50"
               >
                 Sign In
@@ -82,7 +82,7 @@ const Headers = () => {
           <hr className="my-4" />
 
           <NavLink
-            to="/signin"
+            to="/Login"
             onClick={() => setOpen(false)}
             className="px-4 py-2 border border-blue-600 text-blue-600 rounded-md"
           >
