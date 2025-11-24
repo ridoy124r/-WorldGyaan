@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "countryName": "Bangladesh",
+    "capital": "Dhaka",
+    "population": 173480000,
+    "interestingFact": "Bangladesh is home to the Sundarbans, the largest mangrove forest in the world and habitat of the Royal Bengal Tiger."
+  },
+  {
+    "id": 2,
+    "countryName": "Russia",
+    "capital": "Moscow",
+    "population": 146447424,
+    "interestingFact": "Russia is the largest country in the world, covering more than 17 million square kilometers."
+  },
+  {
+    "id": 3,
+    "countryName": "United States",
+    "capital": "Washington, D.C.",
+    "population": 339996000,
+    "interestingFact": "The U.S. has the world's largest economy."
+  },
+  {
+    "id": 4,
+    "countryName": "China",
+    "capital": "Beijing",
+    "population": 1411750000,
+    "interestingFact": "China is the world's most populous country and has the longest continuous civilization."
+  },
+  {
+    "id": 5,
+    "countryName": "India",
+    "capital": "New Delhi",
+    "population": 1417170000,
+    "interestingFact": "India is the largest democracy in the world."
+  },
+  {
+    "id": 6,
+    "countryName": "Japan",
+    "capital": "Tokyo",
+    "population": 124220000,
+    "interestingFact": "Japan has the highest life expectancy among major countries."
+  },
+  {
+    "id": 7,
+    "countryName": "Germany",
+    "capital": "Berlin",
+    "population": 84670000,
+    "interestingFact": "Germany is Europe’s largest economy."
+  },
+  {
+    "id": 8,
+    "countryName": "United Kingdom",
+    "capital": "London",
+    "population": 67890000,
+    "interestingFact": "The UK is home to the world’s oldest parliament."
+  },
+  {
+    "id": 9,
+    "countryName": "France",
+    "capital": "Paris",
+    "population": 68042000,
+    "interestingFact": "France is the most visited country in the world."
+  },
+  {
+    "id": 10,
+    "countryName": "Italy",
+    "capital": "Rome",
+    "population": 58850000,
+    "interestingFact": "Italy has more UNESCO World Heritage sites than any other country."
+  },
+  {
+    "id": 11,
+    "countryName": "Canada",
+    "capital": "Ottawa",
+    "population": 40170000,
+    "interestingFact": "Canada has the longest coastline in the world."
+  },
+  {
+    "id": 12,
+    "countryName": "Australia",
+    "capital": "Canberra",
+    "population": 26830000,
+    "interestingFact": "Australia is the only continent that is also a country."
+  },
+  {
+    "id": 13,
+    "countryName": "Brazil",
+    "capital": "Brasília",
+    "population": 203080000,
+    "interestingFact": "Brazil is home to the Amazon Rainforest, the world’s largest rainforest."
+  },
+  {
+    "id": 14,
+    "countryName": "South Africa",
+    "capital": "Pretoria",
+    "population": 62080000,
+    "interestingFact": "South Africa has three capital cities: Pretoria, Bloemfontein, and Cape Town."
+  },
+  {
+    "id": 15,
+    "countryName": "Saudi Arabia",
+    "capital": "Riyadh",
+    "population": 36218000,
+    "interestingFact": "Saudi Arabia is home to Mecca, Islam’s holiest city."
+  },
+  {
+    "id": 16,
+    "countryName": "Turkey",
+    "capital": "Ankara",
+    "population": 85240000,
+    "interestingFact": "Turkey is located on two continents: Asia and Europe."
+  },
+  {
+    "id": 17,
+    "countryName": "Spain",
+    "capital": "Madrid",
+    "population": 47660000,
+    "interestingFact": "Spain produces more olive oil than any other country."
+  },
+  {
+    "id": 18,
+    "countryName": "Argentina",
+    "capital": "Buenos Aires",
+    "population": 45710000,
+    "interestingFact": "Argentina is home to Patagonia and some of the world’s most stunning glaciers."
+  },
+  {
+    "id": 19,
+    "countryName": "South Korea",
+    "capital": "Seoul",
+    "population": 51780000,
+    "interestingFact": "South Korea has one of the world's fastest internet speeds."
+  },
+  {
+    "id": 20,
+    "countryName": "Egypt",
+    "capital": "Cairo",
+    "population": 112700000,
+    "interestingFact": "Egypt is home to the Great Pyramid of Giza, one of the Seven Wonders of the Ancient World."
+  }
+]
