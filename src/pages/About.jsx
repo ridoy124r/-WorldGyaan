@@ -29,15 +29,15 @@ function About() {
               </h3>
 
               <p className="text-gray-800">
-                <span className="font-semibold">{capital}:</span> Dhaka
+                <span className="font-semibold"> Capital: </span> {capital}
               </p>
 
               <p className="text-gray-800 mt-1">
-                <span className="font-semibold">{population}:</span> 173,480,000
+                <span className="font-semibold"> Population:</span>{population}
               </p>
 
               <p className="text-gray-800 mt-3">
-                <span className="font-semibold">{interestingFact}:</span>
+                <span className="font-semibold"> Interesting Fact:</span>  {interestingFact}
                 <br />
               </p>
             </div>

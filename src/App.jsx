@@ -7,6 +7,7 @@ import AppLayout from "./components/Layout/AppLayout";
 import Error from "./pages/Error";
 import Login from "./pages/Login";
 import Regester from "./pages/Regester";
+import CountryDetails from "./components/UI/CountryDetails";
 
 
 const App = () => {
@@ -32,6 +33,11 @@ const App = () => {
           path: "country",
           element: <Country />,
         },
+        {
+          path: "country/:id",
+          element: <CountryDetails />,
+        },
+  
         {
          path:"login",
          element:<Login />
