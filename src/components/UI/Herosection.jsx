@@ -40,7 +40,7 @@ const Herosection = () => {
 
         <div className="flex-1 mt-10 md:mt-0">
           <img
-            src="src/assets/world.png"
+            src="./assets/world.png"
             alt="World Map"
             className="w-full max-w-md mx-auto drop-shadow-lg"
           />
